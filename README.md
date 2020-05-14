@@ -14,5 +14,5 @@
 
   其他资源：
 
-  <img src="G:\360MoveData\Users\根强\Desktop\CourseNeedToFinish\images\Snipaste_2020-05-14_21-34-39.jpg" style="zoom:50%;" />
+  <img src="./images/Snipaste_2020-05-14_21-34-39.jpg" style="zoom:50%;" />
 
