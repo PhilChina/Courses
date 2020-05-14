@@ -14,5 +14,5 @@
 
   其他资源：
 
-  <img src="C:\Users\根强\AppData\Roaming\Typora\typora-user-images\image-20200514200026282.png" alt="image-20200514200026282" style="zoom: 50%;" />
+  <img src="G:\360MoveData\Users\根强\Desktop\CourseNeedToFinish\images\Snipaste_2020-05-14_21-34-39.jpg" style="zoom:50%;" />
 
