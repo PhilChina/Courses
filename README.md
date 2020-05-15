@@ -2,6 +2,22 @@
 
 ## --想要制作一份刷课计划，根据知识的前后连贯排序
 
+### Python
+
+- **Python 编程与实践**  By 北邮-爱可可爱生活
+
+  :link:课程主页：​​https://github.com/fly51fly/Practical_Python_Programming
+
+  :link:网课：https://www.bilibili.com/video/BV1b7411N7P2
+
+  :link:教材：https://codingpy.com/books/thinkpython2/foreword.html
+
+  
+
+  ------
+
+  
+
 ### 深度学习篇
 
 - **台湾大学-李宏毅-机器学习与深度学习**
