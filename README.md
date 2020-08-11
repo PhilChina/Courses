@@ -20,6 +20,12 @@
 
 ### 深度学习篇
 
+- **斯坦福大学-吴恩达-机器学习 Course上的课程**
+
+  课程视频：https://www.bilibili.com/video/BV164411b7dx
+
+  课程笔记：电脑本地有下载  黄博的机器学习笔记
+
 - **台湾大学-李宏毅-机器学习与深度学习**
 
   课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
