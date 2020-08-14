@@ -24,7 +24,23 @@
 
   课程视频：https://www.bilibili.com/video/BV164411b7dx
 
-  课程笔记：电脑本地有下载  黄博的机器学习笔记
+  课程笔记：*电脑本地有下载  黄博的机器学习笔记*
+
+- **密歇根大学-深度学习进阶篇**
+
+  课程主页：https://web.eecs.umich.edu/~justincj/teaching/eecs498/schedule.html
+
+  课程视频：https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r  *Youtube版本*
+
+  ​                      http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0 *官网版本*
+
+   关于这门课的相关中文介绍：https://www.cnblogs.com/CVLianMeng/p/13490283.html
+
+- **纽约大学-深度学习-LeCun**
+
+  课程主页：https://atcold.github.io/pytorch-Deep-Learning/   [中文版](https://atcold.github.io/pytorch-Deep-Learning/zh/)              
+
+  课程视频：https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq        
 
 - **台湾大学-李宏毅-机器学习与深度学习**
 
