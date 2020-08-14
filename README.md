@@ -42,6 +42,8 @@
 
   课程视频：https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq        
 
+  课程讨论：https://piazza.com/class/k5spqaanqk51ks?cid=349# Pizza
+
 - **台湾大学-李宏毅-机器学习与深度学习**
 
   课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
