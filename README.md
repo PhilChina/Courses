@@ -44,6 +44,26 @@
 
   课程讨论：https://piazza.com/class/k5spqaanqk51ks?cid=349# Pizza
 
+- **加州大学伯克利分校-深度学习**
+
+  课程主页：https://courses.d2l.ai/berkeley-stat-157/syllabus.html
+
+  课程视频：https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW 伯克利版本
+
+  ​                      https://www.bilibili.com/video/BV154411S7Tf 李沐大神版本-B站
+
+  配套教材：
+
+  ​                   中文版https://zh.d2l.ai/index.html 官方
+
+  ​                   Pytorchhttps://tangshusen.me/Dive-into-DL-PyTorch/#/ 
+
+  ​                                https://www.bilibili.com/video/BV1HJ41177E9  
+
+  ​                                 这是B站上的一个小伙伴制作的本版本的领读视频
+
+  ​                   英文版https://d2l.ai/  内容更为全面，有新增章节
+
 - **台湾大学-李宏毅-机器学习与深度学习**
 
   课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
