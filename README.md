@@ -56,7 +56,7 @@
 
   ​                   中文版https://zh.d2l.ai/index.html 官方
 
-  ​                   Pytorchhttps://tangshusen.me/Dive-into-DL-PyTorch/#/ 
+  ​                   Pytorch https://tangshusen.me/Dive-into-DL-PyTorch/#/ 
 
   ​                                https://www.bilibili.com/video/BV1HJ41177E9  
 
