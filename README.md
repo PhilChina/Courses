@@ -26,6 +26,12 @@
 
   课程笔记：*电脑本地有下载  黄博的机器学习笔记*
 
+- CS330:Deep Multi-Task and Meta Learning  斯坦福大学课程
+
+  课程主页：https://cs330.stanford.edu/
+
+  课程视频：https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&index=2&t=8s
+
 - **密歇根大学-深度学习进阶篇**
 
   课程主页：https://web.eecs.umich.edu/~justincj/teaching/eecs498/schedule.html
