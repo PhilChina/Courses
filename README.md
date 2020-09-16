@@ -26,7 +26,7 @@
 
   课程笔记：*电脑本地有下载  黄博的机器学习笔记*
 
-- CS330:Deep Multi-Task and Meta Learning  斯坦福大学课程
+- **CS330:Deep Multi-Task and Meta Learning  斯坦福大学课程**
 
   课程主页：https://cs330.stanford.edu/
 
